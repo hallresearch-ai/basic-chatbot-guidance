@@ -1,0 +1,11 @@
+Please carefully proofread the attached document. 
+
+Flag any instances of: 
+- internal inconsistencies.
+- formatting issues.
+- typos.
+- grammatical errors.
+- malapropisms.
+
+When an issue is flagged, list it along with its location in the document. 
+

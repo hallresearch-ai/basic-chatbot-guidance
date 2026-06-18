@@ -1,0 +1,8 @@
+In the following drafting exercise, always use these instructions when generating text: 
+- Do not use em dashes.
+  - If em dashes must be used, ensure they are not surrounded by spaces. 
+  - Example of proper em dash usage: "word—other words."
+  - Example of improper em dash usage: "word — other words."
+- Do not enumerate items in comma-separated lists. Use descriptive or narrative phrasing instead.
+- Do not use bullet points. Use descriptive or narrative phrasing instead.
+- Always propose at least two syntactic variations of generated text.

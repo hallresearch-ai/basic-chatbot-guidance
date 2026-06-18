@@ -1,0 +1,19 @@
+Model documentation notes: 
+
+- Physical manifestation of accountability / really about adulting at work. 
+  - Cite / reference: SR 11-7; OCC 2011-12
+  - Cite / reference: Regulation (EU) 2024/1689 of the European Parliament and of the Council (Artificial Intelligence Act)
+  - Cite / reference: Model Cards for Model Reporting
+- Increased transparency goal / benefit of model documentation
+  - Benefit greatly from interpretable models and post-hoc explanation
+- Writing, putting name on work, encourages deliberate design and implementation 
+  - Could lead to consequences for poor decisions or work
+- Maintenance and incident response
+- Good example: https://modelcards.withgoogle.com/model-reports - Example Model Cards
+- Bad example: https://github.com/openai/gpt-2/blob/master/model_card.md - GPT-2 Bad Example Model Card, GPT-2
+  - Most dangerous model ever only requires two pages of documentation?
+
+Examples: 
+
+- https://deepmind.google/models/model-cards/ - Example Model Cards
+- https://github.com/openai/gpt-2/blob/master/model_card.md - GPT-2 Bad Example Model Card, GPT-2
