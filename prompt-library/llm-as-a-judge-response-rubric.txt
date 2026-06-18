@@ -1,31 +1,33 @@
-Your task is to evaluate the LLM response below, to the user query below, by applying the rubric below. 
+Your task is to evaluate the LLM response below, relative to the user query below, by applying the rubric below.
 
-- Evaluation instructions begin with the marking: "===== Evaluation Instructions =====".
-- The rubric begins with the marking: "====== Rubric ======".
-- The user query for the LLM response begins with the marking: "===== User Query =====".
-- The LLM response to evaluate with the rubric begins with: "===== LLM Response =====".
- 
+- Evaluation instructions begin with the marker: ===== Evaluation Instructions =====
+- The rubric begins with the marker: ===== Rubric =====
+- The user query begins with the marker: ===== User Query =====
+- The LLM response to evaluate begins with the marker: ===== LLM Response =====
+
 ===== Evaluation Instructions =====
 
-- Judge only the LLM response provided after "===== LLM Response =====", with respect to the user query after "===== User Query =====".
-- Output one score for each dimension of the rubric.
-- Output a score of 1, 2, or 3 for each rubric dimension.
-- Output should follow this example:
+- Judge only the LLM response provided after ===== LLM Response =====, with respect to the user query provided after ===== User Query =====.
+- Apply each rubric dimension independently.
+- Output one score for each rubric dimension.
+- Output only an integer score of 1, 2, or 3 for each rubric dimension.
+- Do not use half-points, decimal values, ranges, explanations, or rationales.
+- Do not let one strong or weak dimension unduly influence unrelated dimensions.
+- Do not reward the response for information that is implied but not stated.
+- Do not penalize the response for failing to address issues that were outside the user query.
+- Your output must exactly follow this format:
 
 Accuracy: 1
 Relevance: 2
 Completeness: 3
-Clarity: 1 
+Clarity: 1
 Instruction Following: 2
 Usefulness: 3
 Safety / Appropriateness: 1
 
-- Do not output any other text or values. 
-- Do not use half-points or decimal values.
-- Do not let one strong or weak dimension unduly influence unrelated dimensions.
-- Do not reward the response for information that is implied but not stated.
+- Do not output any other text, labels, commentary, or values.
 
-====== Rubric ======
+===== Rubric =====
 
 Dimension 1. Accuracy
 1 point: The LLM response is incorrect, misleading, or contains serious factual or technical errors.
@@ -64,8 +66,8 @@ Dimension 7. Safety / Appropriateness
 
 ===== User Query =====
 
-< Paste user query here. >
+<Paste user query here.>
 
 ===== LLM Response =====
 
-< Paste LLM response here. >
+<Paste LLM response here.>
