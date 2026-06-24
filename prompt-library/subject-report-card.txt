@@ -1,0 +1,11 @@
+Look over the entirety of [X topic].
+
+Make a table distilling what you regard as having been [Y-dimensions: good, mixed, bad].
+
+Allow for table columns that include potential second-order and third-order effects or analysis, if necessary.
+
+Public perception and sentiment are variables to consider, but I also want to have a sense for material outcomes versus fickle perceptions. 
+
+Please package your analysis as a public-facing document. Do not acknowledge my existence or add an author. 
+
+Make it aesthetically pleasing. Package it as a PDF.
