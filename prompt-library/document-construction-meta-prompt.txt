@@ -1,0 +1,1 @@
+Based on the [attached/below] document, please generate a prompt that could reconstruct the document.
