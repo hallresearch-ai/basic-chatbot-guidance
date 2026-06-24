@@ -1,1 +1,1 @@
-Turn the [last prompt/the below] into a template prompt for similar requests. 
+Turn the [last prompt/below] into a template prompt for similar requests in the future. 
