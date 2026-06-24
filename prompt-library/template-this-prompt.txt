@@ -1,0 +1,1 @@
+Turn the [last prompt/the below] into a template prompt for similar requests. 
