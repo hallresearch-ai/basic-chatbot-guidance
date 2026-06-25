@@ -1,1 +1,5 @@
-Based on the [attached/below] document, please generate a prompt that could reconstruct the document.
+Based on the [attached/below] document, please generate prompts that could reconstruct it.
+
+Produce at least [3] potential prompts. 
+
+Analyze the various options for prompts and extract themes and pertinent details. 
