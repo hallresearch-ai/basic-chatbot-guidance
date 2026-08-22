@@ -1,0 +1,28 @@
+We are going to conduct a structured editing exercise on the attached paper. Please wait for my guidance. Please provide additional information if you find a serious error or problem. I will ask you what I forgot or failed to address at the end of the exercise. Are you ready to begin?
+
+Are all external URLs valid? 
+
+Great. Please review the structure of the paper for inconsistencies or errors. Focus on the title and section headers. Do the title or section headers contain typos or grammatical errors. Do sections proceed in order? Then examine the structure of paper. Are enumerated list in order? Are the referred to correctly, e.g., correct number of items? Are bulleted lists formatted correctly. Can you spot any other structural concerns?
+
+Thanks. Let's take a closer look at the structure. When the text makes references to Sections, subsections, footnotes, tables, figures, appendices, or references, do these all seem logically correct? I am looking for errors like "See Section 6" but the content is referring to Section 5, or "See Table 2" but the content is referring to a different table.
+
+Please analyze the abbreviations. Are all abbreviations introduced and used thereafter? Are all abbreviations used without errors or typos?
+
+Please proofread the bibliography.
+
+Please look at the tables and figures carefully. Can you spot any errors or inconsistencies?
+
+Are there issues I did not ask about?
+
+<Start a new session and re-upload the edited document.>
+
+Please carefully proofread the attached document. 
+
+Flag any instances of: 
+- internal inconsistencies.
+- formatting issues.
+- typos.
+- grammatical errors.
+- malapropisms.
+
+When an issue is flagged, list it along with its location in the document. 
