@@ -6,6 +6,7 @@ Flag any instances of:
 - typos.
 - grammatical errors.
 - malapropisms.
+- language model prompts.
 
 When an issue is flagged, list it along with its location in the document. 
 
