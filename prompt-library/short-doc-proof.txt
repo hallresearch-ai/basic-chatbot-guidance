@@ -7,6 +7,7 @@ Flag any instances of:
 - grammatical errors.
 - malapropisms.
 - language model prompts.
+- references to language model chat interactions or instructions.
 
 When an issue is flagged, list it along with its location in the document. 
 
